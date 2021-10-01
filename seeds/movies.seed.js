@@ -4,7 +4,7 @@ const Movie = require('../models/Movie.model')
 
 
 // ℹ️ Connects to the database
-require('./db');
+require('../db');
 
 
 const movies = [
